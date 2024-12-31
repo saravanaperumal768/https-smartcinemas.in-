@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "iconic-nation-415605",
+  "private_key_id": "61ba055c564f17d1fa53c85df5d72e8e5296a023",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdHKNbvDrgPK4k\nvokZtc8Kvw9P59GOeHYMqWqVoIUFSsvQG4/1j7njzjlrw/6ZdIn2nbfJ0W7CQhKx\nAwN4U/f81HzVqvzXgu6N1Gd9ezc5PA4dMvPrRLIJhiSwwP4Pe7XlMhgof9bsG1NF\n/PzyQb74FZICm913nPjFQOdUr8GIJU6PYvxrQWMCfQK//5b17mOQ1Hky8C4M1Unw\nA3HxE5D3JWfJ1cg/LsnDjpb/AWIsOkRvcTd5xQxndJ/DrOtTq89FnZxBrA2DW9n3\n7CF3lkKbkLntpzQvEweQ5otKWrkja9HXISx9UA7Am81zDyqUfoim1OWde5yr4ufI\nHm5sEu8FAgMBAAECggEAF+AUfhoQa2elQh23WXIcxMIMmmS83nT1YY60TQkv9cIs\nT1OE8Lj284SxCqyl6d2BIrpMhe2e8oPWcdJmqlg+UQxcbR73Hev+gwyibnn1RiwX\na/4Efb36fUKGnFqzsRgoZ+xRKgRlXYt4f+QGb20oz2v9vIpBoU34KwemL+MmmqDt\nuy2T4L6gHlWx7UR8qcNc3wBq9TOg5rQ+s9Pc6d7n/tNoaFwUvjnBCLiojC3cItO0\nNxDaVKmvcNxCPbSPvE+s6HuPZB/QGV4Iyrci+SZCyhd3vr/OgkyhaDi+nxk8Vtfj\nKe/szmDgDGNRc18sFanMpaMc/PtC1XmG0/QLPB8oIQKBgQDQpDafi7Q+PaFotiXF\nA3ZWpkSqrIn23+5kpdBf+pUc+gHDdTqzhIt/0TZxCiz0mLDVLc9X4lK+cN5azFzz\nHq3/u0mtq3qg/A9n3ytolhGJQ137kzSvdaXXm5+PHIG9/TpjKCGMe/RNl0DRqOBq\nNMCOo8yJAW1TpHrVT9+6VNsg5QKBgQDAxiGY9MvVqD8ufaPeHKZXXFYdDMgO2VUB\nHQWPZWHnrGp8EEUfJPp8S+UMYL2erIuWFt1CrTLgGzygvuvWlqVkwj4wYtezw7vE\n09IqGLhFH9IzY0t8T0m8NP7V/GHpbh87s+ZBLdrnqrsXYQIsk2/0aOtqPLKYQfwc\nYSB2o6VToQKBgQCoEE8rz4Y+SLjXNzpPa82MWNyhOuDba2CF1Id4eMpakAyRnMHP\nT2praGRZRCAYW1K+Net6WIXcf+Cs9Ue+Uy1H/V6JNcNPIBtsyXkXAyNXFVwERXzA\nBZ20gthRmF3uY6f/rZjwp/yP79G30TgMdTfS7qDYj7y4DpsfbvrCBo6I/QKBgDKe\nlEnu1et3r4eMtE/ppABCndYo+gt0JC8TqNcbnxbPnnKPbycbda7X2wBiEsistEao\nIFeW1UolvMjU+WayziFkJCJegheRKSgpGwG01gZIsdCOnU66HzmNjPExwaAjK45o\n0eiBmv7ERTaBYanE2VwLhO2znI4AnavyES02EX6hAoGAQbhGDiiOt1/0MmeMB4Q1\n5D6YvTRiBdJuN6s0O6i87NvGaeR0qL1G06BghZUC++1/HMVZ5L2Dt3MC5GptvVw2\nSssPK0lMhXqsm2FbpWXKBcbdDuatH40esg0sv/YDftJgqdgUnJdGRaiBcv5g9zEA\nYe2COHZLfXuXcH51g66lz5E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "smarthomeconnect@iconic-nation-415605.iam.gserviceaccount.com",
+  "client_id": "105219023755423972654",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smarthomeconnect%40iconic-nation-415605.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
